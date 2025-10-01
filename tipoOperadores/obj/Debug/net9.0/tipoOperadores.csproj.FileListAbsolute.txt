@@ -1,0 +1,14 @@
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\tipoOperadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\tipoOperadores.AssemblyInfoInputs.cache
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\tipoOperadores.AssemblyInfo.cs
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\tipoOperadores.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Avanade\tipoOperadores\bin\Debug\net9.0\tipoOperadores.exe
+D:\rc-Csharp\Avanade\tipoOperadores\bin\Debug\net9.0\tipoOperadores.deps.json
+D:\rc-Csharp\Avanade\tipoOperadores\bin\Debug\net9.0\tipoOperadores.runtimeconfig.json
+D:\rc-Csharp\Avanade\tipoOperadores\bin\Debug\net9.0\tipoOperadores.dll
+D:\rc-Csharp\Avanade\tipoOperadores\bin\Debug\net9.0\tipoOperadores.pdb
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\tipoOperadores.dll
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\refint\tipoOperadores.dll
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\tipoOperadores.pdb
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\tipoOperadores.genruntimeconfig.cache
+D:\rc-Csharp\Avanade\tipoOperadores\obj\Debug\net9.0\ref\tipoOperadores.dll

@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sintaxeBasica_net", "sintaxeBasica_net\sintaxeBasica_net.csproj", "{527CD4EF-4E63-53BD-7A4A-4CBCD0549A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipoOperadores", "tipoOperadores\tipoOperadores.csproj", "{C925A544-6699-AAED-0588-3F9835E4412C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527CD4EF-4E63-53BD-7A4A-4CBCD0549A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527CD4EF-4E63-53BD-7A4A-4CBCD0549A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527CD4EF-4E63-53BD-7A4A-4CBCD0549A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527CD4EF-4E63-53BD-7A4A-4CBCD0549A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C925A544-6699-AAED-0588-3F9835E4412C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C925A544-6699-AAED-0588-3F9835E4412C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C925A544-6699-AAED-0588-3F9835E4412C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C925A544-6699-AAED-0588-3F9835E4412C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7639C858-F840-4445-8309-C7E22FA0E8C3}
+	EndGlobalSection
+EndGlobal

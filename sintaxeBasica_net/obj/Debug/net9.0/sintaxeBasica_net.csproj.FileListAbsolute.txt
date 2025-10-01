@@ -1,0 +1,28 @@
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.exe
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.deps.json
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.runtimeconfig.json
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.dll
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.pdb
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.AssemblyInfoInputs.cache
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.AssemblyInfo.cs
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.dll
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\refint\sintaxeBasica_net.dll
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.pdb
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.genruntimeconfig.cache
+D:\rc-Csharp\Deal Group\sintaxeBasica_net\obj\Debug\net9.0\ref\sintaxeBasica_net.dll
+D:\rc-Csharp\Avanade\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.exe
+D:\rc-Csharp\Avanade\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.deps.json
+D:\rc-Csharp\Avanade\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.runtimeconfig.json
+D:\rc-Csharp\Avanade\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.dll
+D:\rc-Csharp\Avanade\sintaxeBasica_net\bin\Debug\net9.0\sintaxeBasica_net.pdb
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.AssemblyInfoInputs.cache
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.AssemblyInfo.cs
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.dll
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\refint\sintaxeBasica_net.dll
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.pdb
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\sintaxeBasica_net.genruntimeconfig.cache
+D:\rc-Csharp\Avanade\sintaxeBasica_net\obj\Debug\net9.0\ref\sintaxeBasica_net.dll

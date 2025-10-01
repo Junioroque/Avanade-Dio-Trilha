@@ -1,0 +1,14 @@
+D:\rc-Csharp\Avanade\operadorCondicional\bin\Debug\net9.0\operadorCondicional.exe
+D:\rc-Csharp\Avanade\operadorCondicional\bin\Debug\net9.0\operadorCondicional.deps.json
+D:\rc-Csharp\Avanade\operadorCondicional\bin\Debug\net9.0\operadorCondicional.runtimeconfig.json
+D:\rc-Csharp\Avanade\operadorCondicional\bin\Debug\net9.0\operadorCondicional.dll
+D:\rc-Csharp\Avanade\operadorCondicional\bin\Debug\net9.0\operadorCondicional.pdb
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.AssemblyInfoInputs.cache
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.AssemblyInfo.cs
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.dll
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\refint\operadorCondicional.dll
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.pdb
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.genruntimeconfig.cache
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\ref\operadorCondicional.dll
