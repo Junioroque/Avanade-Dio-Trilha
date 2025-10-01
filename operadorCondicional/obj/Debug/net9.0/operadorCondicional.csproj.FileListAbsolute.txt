@@ -12,3 +12,4 @@ D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\refint\operadorCondici
 D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.pdb
 D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.genruntimeconfig.cache
 D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\ref\operadorCondicional.dll
+D:\rc-Csharp\Avanade\operadorCondicional\obj\Debug\net9.0\operadorCondicional.sourcelink.json
