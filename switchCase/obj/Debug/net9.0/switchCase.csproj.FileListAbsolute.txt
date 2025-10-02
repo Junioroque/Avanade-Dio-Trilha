@@ -1,0 +1,15 @@
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.AssemblyInfoInputs.cache
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.AssemblyInfo.cs
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.sourcelink.json
+D:\rc-Csharp\Avanade\switchCase\bin\Debug\net9.0\switchCase.exe
+D:\rc-Csharp\Avanade\switchCase\bin\Debug\net9.0\switchCase.deps.json
+D:\rc-Csharp\Avanade\switchCase\bin\Debug\net9.0\switchCase.runtimeconfig.json
+D:\rc-Csharp\Avanade\switchCase\bin\Debug\net9.0\switchCase.dll
+D:\rc-Csharp\Avanade\switchCase\bin\Debug\net9.0\switchCase.pdb
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.dll
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\refint\switchCase.dll
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.pdb
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\switchCase.genruntimeconfig.cache
+D:\rc-Csharp\Avanade\switchCase\obj\Debug\net9.0\ref\switchCase.dll
