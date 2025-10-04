@@ -1,0 +1,15 @@
+D:\rc-Csharp\Avanade\operadorLogico\bin\Debug\net9.0\operadorLogico.exe
+D:\rc-Csharp\Avanade\operadorLogico\bin\Debug\net9.0\operadorLogico.deps.json
+D:\rc-Csharp\Avanade\operadorLogico\bin\Debug\net9.0\operadorLogico.runtimeconfig.json
+D:\rc-Csharp\Avanade\operadorLogico\bin\Debug\net9.0\operadorLogico.dll
+D:\rc-Csharp\Avanade\operadorLogico\bin\Debug\net9.0\operadorLogico.pdb
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.AssemblyInfoInputs.cache
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.AssemblyInfo.cs
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.sourcelink.json
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.dll
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\refint\operadorLogico.dll
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.pdb
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\operadorLogico.genruntimeconfig.cache
+D:\rc-Csharp\Avanade\operadorLogico\obj\Debug\net9.0\ref\operadorLogico.dll
