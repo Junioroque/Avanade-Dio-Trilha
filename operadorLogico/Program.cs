@@ -18,7 +18,9 @@ bool possuiPresençaMinima = true;
 double nota = 7.5;
 
 if(possuiPresençaMinima && nota >= 7.5) {
-    
+    Console.WriteLine("Aprovado!");
+}else {
+    Console.WriteLine("Reprovado!");
 }
 
 
