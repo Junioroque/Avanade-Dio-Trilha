@@ -17,3 +17,20 @@ calc.Coseno(20);
 
 Console.WriteLine("------------Tangente---------------");
 calc.Tangente(20);
+
+Console.WriteLine("--------------------------------");
+int numero = 10;
+Console.WriteLine("Incrementa o numero: ");
+Console.WriteLine(++numero);//11
+
+Console.WriteLine("--------------------------------");
+
+Console.WriteLine("Decrementa o numero: ");
+Console.WriteLine(--numero);//10
+Console.WriteLine(--numero);//9
+Console.WriteLine(--numero);//8
+Console.WriteLine(--numero);//7
+Console.WriteLine(--numero);//6
+
+Console.WriteLine("--------------Raiz quadrada---------------");
+calc.RaizQuadrada(10);
