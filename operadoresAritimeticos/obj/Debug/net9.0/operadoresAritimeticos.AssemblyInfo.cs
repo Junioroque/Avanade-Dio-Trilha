@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("operadoresAritimeticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+974f502446760ab75edc9a86df25c230e9b50e6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d6e0e7d43e70f23d57ce4830fe6671d6ad36fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("operadoresAritimeticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("operadoresAritimeticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

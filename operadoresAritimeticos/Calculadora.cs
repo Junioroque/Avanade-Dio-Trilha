@@ -27,19 +27,19 @@ namespace operadoresAritimeticos {
         public void Seno(double angulo) {
             double radiano = angulo * Math.PI / 180;
             double seno = Math.Sin(radiano);
-            Console.WriteLine($"Seno de {angulo} = {seno}");
+            Console.WriteLine($"Seno de {angulo} = {Math.Round(seno, 2)}");
         }
            //seno
         public void Coseno(double angulo) {
             double radiano = angulo * Math.PI / 180;
             double coseno = Math.Cos(radiano);
-            Console.WriteLine($"Coseno de {angulo} = {coseno}");
+            Console.WriteLine($"Coseno de {angulo} = {Math.Round(coseno, 3)}");
         }
            //seno
         public void Tangente(double angulo) {
             double radiano = angulo * Math.PI / 180;
-            double Tangente = Math.Tan(radiano);
-            Console.WriteLine($"Tangente de {angulo} = {Tangente}");
+            double tangente = Math.Tan(radiano);
+            Console.WriteLine($"Tangente de {angulo} = {Math.Round(tangente, 1)}");
         }
 
     }
