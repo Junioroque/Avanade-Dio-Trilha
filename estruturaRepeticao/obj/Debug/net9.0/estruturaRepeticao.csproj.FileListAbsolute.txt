@@ -1,0 +1,15 @@
+D:\rc-Csharp\Avanade\estruturaRepeticao\bin\Debug\net9.0\estruturaRepeticao.exe
+D:\rc-Csharp\Avanade\estruturaRepeticao\bin\Debug\net9.0\estruturaRepeticao.deps.json
+D:\rc-Csharp\Avanade\estruturaRepeticao\bin\Debug\net9.0\estruturaRepeticao.runtimeconfig.json
+D:\rc-Csharp\Avanade\estruturaRepeticao\bin\Debug\net9.0\estruturaRepeticao.dll
+D:\rc-Csharp\Avanade\estruturaRepeticao\bin\Debug\net9.0\estruturaRepeticao.pdb
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.AssemblyInfoInputs.cache
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.AssemblyInfo.cs
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.sourcelink.json
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.dll
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\refint\estruturaRepeticao.dll
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.pdb
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\estruturaRepeticao.genruntimeconfig.cache
+D:\rc-Csharp\Avanade\estruturaRepeticao\obj\Debug\net9.0\ref\estruturaRepeticao.dll
