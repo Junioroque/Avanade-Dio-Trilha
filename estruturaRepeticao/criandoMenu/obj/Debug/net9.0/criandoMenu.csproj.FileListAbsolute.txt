@@ -1,0 +1,15 @@
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\bin\Debug\net9.0\criandoMenu.exe
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\bin\Debug\net9.0\criandoMenu.deps.json
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\bin\Debug\net9.0\criandoMenu.runtimeconfig.json
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\bin\Debug\net9.0\criandoMenu.dll
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\bin\Debug\net9.0\criandoMenu.pdb
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.AssemblyInfoInputs.cache
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.AssemblyInfo.cs
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.csproj.CoreCompileInputs.cache
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.sourcelink.json
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.dll
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\refint\criandoMenu.dll
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.pdb
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\criandoMenu.genruntimeconfig.cache
+D:\rc-Csharp\Avanade\estruturaRepeticao\criandoMenu\obj\Debug\net9.0\ref\criandoMenu.dll
