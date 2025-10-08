@@ -17,3 +17,15 @@ while(cont <= 50){
 }
 
 Console.WriteLine("-----------Do while---------------");
+
+int soma = 0, number = 0;
+
+do {
+    Console.WriteLine("Digite um número: (Para sair digite 0)");
+    number = Convert.ToInt32(Console.ReadLine());
+
+    soma += number;
+
+}while(number != 0);
+
+Console.Write($"Total da soma: {soma}");
