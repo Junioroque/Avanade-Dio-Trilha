@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("criandoMenu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a42f4d9325f29e2329ef582cada53a9363e2563")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9970725083262b5582d032dad1bb65a02dff826c")]
 [assembly: System.Reflection.AssemblyProductAttribute("criandoMenu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("criandoMenu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
